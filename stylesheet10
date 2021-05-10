@@ -1,0 +1,6 @@
+body{
+background-color: gray;
+margin: 10px;
+font-family: verdana, Georgia,serif;
+font-size: 14px;
+}
